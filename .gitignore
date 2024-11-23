@@ -32,3 +32,4 @@ gen
 ### dotenv template
 .env
 
+.DS_Store
